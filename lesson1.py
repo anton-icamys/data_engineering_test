@@ -88,3 +88,9 @@ print('hello' not in x)  # выведет True
 print(1 in y)  # выведет True
 # Проверяем, находится ли ключ 'a' в словаре y
 print('a' in y)  # выведет False
+
+
+print('new changes')
+
+
+print(2*8)
